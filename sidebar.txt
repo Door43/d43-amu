@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[amu:home|Door43 (amu)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-amu|d43-amu repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-amu/archive/master.zip|d43-amu.zip]]
+
+**Recent Changes**
+{{changes>ns = amu}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/amu|Ethnologue data]]
+
